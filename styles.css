@@ -16,7 +16,7 @@ body {
 header {
     background-color: OK#7b60df;
 }
-
+Fonte: Site Toda a matéria
 
 section {
     padding-bottom: 5rem;
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #2394f0e1;
 
 }
 
@@ -121,12 +121,12 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #00084ea2;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(33, 4, 196, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #0036e7;
 }
 .menu-acessibilidade{
     position: fixed;
